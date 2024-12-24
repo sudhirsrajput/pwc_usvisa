@@ -5,7 +5,7 @@
 [link](https://docs.google.com/document/d/1UFiHnyKRqgx8Lodsvdzu58LbVjdWHNf-uab2WmhE0A4/edit?usp=sharing)
 
 
-### Git commands
+## Git commands
 
 ```bash
 git add .
